@@ -1,5 +1,4 @@
-# WebGuard-Community-Edition
-
-# The source code and malicious site data of WebGuard Community Edition. This rep. also contains a list of webstites to report these malicious sites to after reporting to WebGuard CommunityReport.
-
-# What is WebGuard?
+# About
+# What is WebGuard Community Edition?
+  WebGuard Community Edition is a Free to use community supplied version of the paid browser extetion "WebGuard".
+# What can you find in this repository?
