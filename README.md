@@ -6,7 +6,10 @@
   ***
 # FAQs
   Q: Where can I report malicious sites?
+    
     A: Sadly, the feature is not fully implemented yet but you can follow our beta release channel for more info!
+
+  Q: Does this slow 
 ***
   <p align="center"> Made with love in 🇸🇰 !
   
