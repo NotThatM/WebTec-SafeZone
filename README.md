@@ -24,7 +24,12 @@
   Q: What if I need more help?
 
     A: You can visit the wiki or you can submit a support ticket.
-    
+
+***
+# Contact
+  **IG:** @itzamysterylol
+  **X:** @MatusKosik
+  **TikTok:** @mthewalkr
 ***
   <p align="center"> Made with love in 🇸🇰 !
   
