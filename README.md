@@ -27,9 +27,9 @@
 
 ***
 # Contact
-  **IG:** @itzamysterylol
-  **X:** @MatusKosik
-  **TikTok:** @mthewalkr
+  **IG:** @itzamysterylol |
+  **X:** @MatusKosik |
+  **TikTok:** @mthewalkr |
 ***
   <p align="center"> Made with love in 🇸🇰 !
   
